@@ -1,13 +1,18 @@
-# Exercise Description
+# Python Greeting Program
 
-Write a program that, when run, greets the user by printing “Hello, world!” on the screen. Then it prints a message on the screen asking the user to enter their name. The program greets the user by name by printing the “Hello,” followed by the user’s name.
+This simple Python script greets the user with a "Hello, world!" message, then prompts the user to input their name, and finally greets them personally by name.
 
-## Let’s use “Alice” as the example name. Your program’s output should look like this:
+
+## How to run the program:
+    Prerequisites: Ensure you have Python installed on your machine.
+    Navigate: Open a terminal or command prompt and navigate to the directory containing the program file
+    Run: Execute the game using the command: python hello-world.py.
+
+## Example Output
 
 Hello, world!
-
 What is your name?
+Arturo
+Hello, Arturo
 
-Alice
-
-Hello, Alice
+This example uses "Arturo" as the name, but the program will work with any name inputted by the user.
