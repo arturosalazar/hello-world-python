@@ -9,10 +9,9 @@ This simple Python script greets the user with a "Hello, world!" message, then p
     Run: Execute the game using the command: python hello-world.py.
 
 ## Example Output
-
-Hello, world!
-What is your name?
-Arturo
-Hello, Arturo
+    Hello, world!
+    What is your name?
+    Arturo
+    Hello, Arturo
 
 This example uses "Arturo" as the name, but the program will work with any name inputted by the user.
