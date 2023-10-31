@@ -2,7 +2,6 @@
 
 This simple Python script greets the user with a "Hello, world!" message, then prompts the user to input their name, and finally greets them personally by name.
 
-
 ## How to run the program:
     Prerequisites: Ensure you have Python installed on your machine.
     Navigate: Open a terminal or command prompt and navigate to the directory containing the program file
